@@ -1,6 +1,6 @@
 # Solution Challenge 
 
-A new Flutter project.
+
 
 ## TCC Application 
 
