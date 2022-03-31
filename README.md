@@ -1,4 +1,4 @@
-# SolCH
+# Solution Challenge 
 
 A new Flutter project.
 
